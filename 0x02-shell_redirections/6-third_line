@@ -1,3 +1,2 @@
 #!/bin/bash
 head -n 3 iacta | tail 1
-echo 'a script that displays the third line of the file iacta' > README.md
