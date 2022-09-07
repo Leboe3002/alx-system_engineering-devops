@@ -1,0 +1,1 @@
+all my alias script
