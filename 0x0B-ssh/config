@@ -1,0 +1,8 @@
+Host *
+    PasswordAuthentication no
+
+Host myserver
+    Hostname <server_hostname_or_IP_address>
+    User <remote_username>
+    IdentityFile ~/.ssh/school
+
