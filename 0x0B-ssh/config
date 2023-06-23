@@ -1,8 +1,7 @@
-Host *
-    PasswordAuthentication no
-
-Host myserver
-    Hostname <server_hostname_or_IP_address>
-    User <remote_username>
+Host school
+    Hostname 100.27.11.98
+    User ubuntu
     IdentityFile ~/.ssh/school
+
+    PasswordAuthentication no
 
